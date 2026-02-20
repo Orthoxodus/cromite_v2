@@ -5,16 +5,21 @@
 
 [![Build Cromite](https://github.com/uazo/cromite/actions/workflows/build_cromite.yaml/badge.svg)](https://github.com/uazo/cromite/actions/workflows/build_cromite.yaml)
 
-# Cromite (a Bromite fork) - Take back your browser
+# Cromite v2 (a over Cromite fork) - Take back your browser with even more features under the hood
 
 <a href="https://www.cromite.org">
-  <img title="Cromite - take back your browser!" src="https://www.cromite.org/app_icon.png" width="96" alt="Bromite" />
+  <img title="Cromite - Take back your browser with even more features under the hood!" src="https://www.cromite.org/app_icon.png" width="96" alt="Bromite" />
 </a>
 <br>
 
-Cromite is a [Chromium](https://www.chromium.org/Home) fork based on [Bromite](https://github.com/bromite/bromite) with built-in support for ad blocking and an eye for privacy.
+Cromite is a [Chromium](https://www.chromium.org/Home) fork based on [Bromite](WIP) with built-in support for ad blocking, an eye for privacy and much more.
 
 Cromite is available for Android arm64-v8a, arm32-v7a and x86_64, Android 10 and above, Windows and Linux 64bit.
+
+# Now and with more features
+- Custom Google independent built-in translate option
+- Your favourite DevTools
+- Custom Google independent News Feed at homepage
 
 # Goals
 
@@ -39,22 +44,22 @@ Please note that this project is not free of bugs and that changing the behaviou
 
 # Releases
 
-All built versions are available as [releases](https://github.com/uazo/cromite/releases).
+All built versions are available as [releases](WIP).
 
 Cromite is currently built for ARM, ARM64, Android x86, Windows x64 and Linux.
 
 The following files will be present for each release:
 
 #### Cromite apk for android:
-- [arm64_ChromePublic.apk](https://github.com/uazo/cromite/releases/latest/download/arm64_ChromePublic.apk)
-- [arm_ChromePublic.apk](https://github.com/uazo/cromite/releases/latest/download/arm_ChromePublic.apk)
-- [x64_ChromePublic.apk](https://github.com/uazo/cromite/releases/latest/download/x64_ChromePublic.apk)
+- [arm64_ChromePublic.apk](WIP)
+- [arm_ChromePublic.apk](WIP)
+- [x64_ChromePublic.apk](WIP)
 
 #### Linux package:
-- [chrome-lin64.tar.gz](https://github.com/uazo/cromite/releases/latest/download/chrome-lin64.tar.gz)
+- [chrome-lin64.tar.gz](WIP)
 
 #### Windows package:
-- [chrome-win.zip](https://github.com/uazo/cromite/releases/latest/download/chrome-win.zip)
+- [chrome-win.zip](WIP)
 
 #### Debugging symbols and proguard file for java stacktrace deobfuscation
 - x64_ChromePublic.apk.mapping
@@ -67,7 +72,7 @@ The following files will be present for each release:
 #### Chrlauncher autoupdate file:
 - updateurl.txt
 
-Additional files are also available: please note that these files are created by an [additional build](https://github.com/uazo/cromite/actions/workflows/build_additional_targets.yaml) separate from the release process, and therefore may not be immediately available.
+Additional files are also available: please note that these files are created by an [additional build](WIP) separate from the release process, and therefore may not be immediately available.
 
 #### Cromite System WebView apk for android:
 - arm64_SystemWebView.apk
@@ -101,7 +106,7 @@ You will be asked whether you want to activate the functionality during the firs
 [chrlauncher]
 
 # Custom Chromium update URL (string):
-ChromiumUpdateUrl=https://github.com/uazo/cromite/releases/latest/download/updateurl.txt
+ChromiumUpdateUrl=WIP
 
 # Command line for Chromium (string):
 # note --user-data-dir= works better if path is absolute
@@ -167,9 +172,9 @@ Please submit issues following the issue template; beware that GitHub does not d
 
 Patches are welcome and accepted if they match the project goals.
 
-If you want to help me, [here](https://github.com/uazo/cromite/blob/master/docs/HELP_ME_PLEASE.md) is the list of things I would need.
+I made everything for free. Thanks!❤️
 
-For any usage or development discussion please use GitHub Discussions: https://github.com/uazo/cromite/discussions
+For any usage or development discussion please use GitHub Discussions: WIP
 
 # Credits
 
@@ -184,16 +189,7 @@ For any usage or development discussion please use GitHub Discussions: https://g
 
 thanks to [austinhuang0131](https://github.com/austinhuang0131) for the svg icon
 
-# Donate
-
-If you want, you can donate to support cromite development through [paypal](https://www.paypal.com/pools/c/9e5lO2OIzb).
-
-Current link:
-- https://www.paypal.com/pools/c/9hEHZ6tElk
-
-Historical fundraisings links:
-- https://www.paypal.com/pools/c/9cwNgAQhRL
-- https://www.paypal.com/pools/c/9e5lO2OIzb
+No donates, folks!❤️
 
 # License
 
