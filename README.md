@@ -5,7 +5,7 @@
 
 [![Build Cromite](https://github.com/uazo/cromite/actions/workflows/build_cromite.yaml/badge.svg)](https://github.com/uazo/cromite/actions/workflows/build_cromite.yaml)
 
-# Cromite v2 (a over Cromite fork) - Take back your browser with even more features under the hood
+# Cromite v2 is a (Bromite fork) - Take back your browser with even more features under the hood
 
 <a href="https://www.cromite.org">
   <img title="Cromite - Take back your browser with even more features under the hood!" src="https://www.cromite.org/app_icon.png" width="96" alt="Bromite" />
